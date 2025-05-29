@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Work_Test_Nordic_Next
-build_property.ProjectDir = D:\MyFiles\Game Projects\CSHARP Projects\Work Test Nordic Next\Database\
+build_property.ProjectDir = D:\MyFiles\Game Projects\CSHARP Projects\Database worktest\Database\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

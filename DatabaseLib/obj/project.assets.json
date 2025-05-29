@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj",
+      "projectUniqueName": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\DatabaseLib\\DatabaseLib.csproj",
       "projectName": "DatabaseLib",
-      "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj",
+      "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\DatabaseLib\\DatabaseLib.csproj",
       "packagesPath": "C:\\Users\\axelm\\.nuget\\packages\\",
-      "outputPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\obj\\",
+      "outputPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\DatabaseLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\axelm\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,7 +4,7 @@
 exe
 C#
 .cs
-D:\MyFiles\Game Projects\CSHARP Projects\Work Test Nordic Next\Database\obj\Debug\net8.0-windows\
+D:\MyFiles\Game Projects\CSHARP Projects\Database worktest\Database\obj\Debug\net8.0-windows\
 Work_Test_Nordic_Next
 none
 false
@@ -12,8 +12,8 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 
 11407045341
 
-32044008758
-226-306432841
+4172417072
+226-295929379
 MainWindow.xaml;
 
 False

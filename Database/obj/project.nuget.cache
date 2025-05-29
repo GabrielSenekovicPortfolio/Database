@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c9zQVYDwUEk=",
+  "dgSpecHash": "qm0+VSAe3vA=",
   "success": true,
-  "projectFilePath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\Database.csproj",
+  "projectFilePath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\Database\\Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\axelm\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\axelm\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",

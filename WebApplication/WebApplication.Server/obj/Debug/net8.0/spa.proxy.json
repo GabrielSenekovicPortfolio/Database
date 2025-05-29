@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:41262",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\WebApplication\\WebApplication.Server\\..\\webapplication.client",
+"WorkingDirectory": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\WebApplication\\WebApplication.Server\\..\\webapplication.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

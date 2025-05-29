@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\Database.csproj": {}
+    "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\Database\\Database.csproj": {}
   },
   "projects": {
-    "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj": {
+    "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\DatabaseLib\\DatabaseLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj",
+        "projectUniqueName": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\DatabaseLib\\DatabaseLib.csproj",
         "projectName": "DatabaseLib",
-        "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj",
+        "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\DatabaseLib\\DatabaseLib.csproj",
         "packagesPath": "C:\\Users\\axelm\\.nuget\\packages\\",
-        "outputPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\obj\\",
+        "outputPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\DatabaseLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\axelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\Database.csproj": {
+    "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\Database.csproj",
+        "projectUniqueName": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\Database.csproj",
+        "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\Database\\Database.csproj",
         "packagesPath": "C:\\Users\\axelm\\.nuget\\packages\\",
-        "outputPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\obj\\",
+        "outputPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\axelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj": {
-                "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj"
+              "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\DatabaseLib\\DatabaseLib.csproj": {
+                "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Database worktest\\DatabaseLib\\DatabaseLib.csproj"
               }
             }
           }
