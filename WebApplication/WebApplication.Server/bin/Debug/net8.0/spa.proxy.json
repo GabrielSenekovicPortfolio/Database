@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:41262",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "F:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\WebApplication\\WebApplication.Server\\..\\webapplication.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

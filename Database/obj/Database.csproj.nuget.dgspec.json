@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\Database.csproj": {}
+  },
+  "projects": {
+    "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj",
+        "projectName": "DatabaseLib",
+        "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj",
+        "packagesPath": "C:\\Users\\axelm\\.nuget\\packages\\",
+        "outputPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\axelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\Database.csproj",
+        "projectName": "Database",
+        "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\Database.csproj",
+        "packagesPath": "C:\\Users\\axelm\\.nuget\\packages\\",
+        "outputPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\axelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj": {
+                "projectPath": "D:\\MyFiles\\Game Projects\\CSHARP Projects\\Work Test Nordic Next\\DatabaseLib\\DatabaseLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "Microsoft.Windows.Compatibility": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
